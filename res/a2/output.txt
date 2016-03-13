@@ -1,0 +1,101 @@
+romeo juliet 
+juliet happy dagger 
+romeo die dagger 
+live free die newhampshire motto 
+newhampshire newengland 
+
+A             S1     S2     S3     S4     S5     
+
+dagger        0      1      1      0      0      
+
+die           0      0      1      1      0      
+
+free          0      0      0      1      0      
+
+happy         0      1      0      0      0      
+
+juliet        1      1      0      0      0      
+
+live          0      0      0      1      0      
+
+motto         0      0      0      1      0      
+
+newengland    0      0      0      0      1      
+
+newhampshire  0      0      0      1      1      
+
+romeo         1      0      1      0      0      
+
+U             1      2      
+
+dagger        0.27   -0.51  
+
+die           0.53   0.00   
+
+free          0.34   0.21   
+
+happy         0.09   -0.30  
+
+juliet        0.16   -0.51  
+
+live          0.34   0.21   
+
+motto         0.34   0.21   
+
+newengland    0.09   0.09   
+
+newhampshire  0.43   0.30   
+
+romeo         0.25   -0.42  
+
+S             1      2      
+
+1             2.41   0.00   
+
+2             0.00   2.10   
+
+V             S1     S2     S3     S4     S5     
+
+1             0.17   0.22   0.44   0.83   0.22   
+
+2             -0.44  -0.62  -0.44  0.44   0.18   
+
+US            1      2      
+
+dagger        0.65   -1.06  
+
+die           1.26   0.00   
+
+free          0.83   0.44   
+
+happy         0.22   -0.62  
+
+juliet        0.39   -1.06  
+
+live          0.83   0.44   
+
+motto         0.83   0.44   
+
+newengland    0.22   0.18   
+
+newhampshire  1.05   0.62   
+
+romeo         0.61   -0.88  
+
+SV            S1     S2     S3     S4     S5     
+
+1             0.42   0.53   1.05   1.99   0.53   
+
+2             -0.92  -1.31  -0.92  0.92   0.38   
+
+juliet happy dagger 
+
+Q             1      2      
+
+1             0.42   -0.92  
+
+cos(S1, Q) = 1.0000
+cos(S2, Q) = 0.9988
+cos(S3, Q) = 0.9139
+cos(S4, Q) = -0.0030
+cos(S5, Q) = -0.1970
