@@ -1,4 +1,4 @@
-package a.one;
+package com.manojkhannakm.textmining.a.one;
 
 import edu.northwestern.at.utils.corpuslinguistics.stemmer.LancasterStemmer;
 

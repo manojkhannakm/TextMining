@@ -1,4 +1,4 @@
-package a.two;
+package com.manojkhannakm.textmining.a.two;
 
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;

@@ -1,4 +1,4 @@
-package b.one;
+package com.manojkhannakm.textmining.b.one;
 
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
